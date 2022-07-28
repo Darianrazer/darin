@@ -3,3 +3,10 @@
 
 # Ada Library Information
 *.ali
+'''jsx
+const page = 0 = >
+<div className= "page">
+<div className= "about-us">
+<Markdown url= "text-snippets/about-us.md" />
+</div>
+</div>
